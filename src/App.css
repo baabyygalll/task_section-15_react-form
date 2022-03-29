@@ -1,0 +1,55 @@
+form {
+  padding-left: 8rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+label {
+  text-align: left;
+  display: block;
+}
+
+input {
+  width: 800px;
+  margin-bottom: 1rem;
+  
+}
+
+select {
+  margin-bottom: 1rem;
+}
+
+.it {
+  display: inline-block;
+  margin-left: -24rem;
+}
+
+.radio {
+  margin-left: -24rem;
+  
+}
+
+textarea {
+  width: 800px;
+  height: 100px;
+  margin-bottom: 2.5rem;
+}
+
+.submit {
+  width: 100px;
+  height: 25px;
+  margin-right: 1.5rem;
+  color: white;
+  background-color: green;
+  border-radius: 7px;
+}
+
+button {
+  background-color: red;
+  color: white;
+  height: 25px;
+  border-radius: 7px;
+  width: 100px;
+}
