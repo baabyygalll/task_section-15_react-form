@@ -21,14 +21,8 @@ select {
   margin-bottom: 1rem;
 }
 
-.it {
-  display: inline-block;
-  margin-left: -24rem;
-}
-
-.radio {
-  margin-left: -24rem;
-  
+.radioinput {
+  display : flex;
 }
 
 textarea {
